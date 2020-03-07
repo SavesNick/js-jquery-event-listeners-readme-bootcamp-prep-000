@@ -3,7 +3,7 @@
 $(document).ready(function(){
 
 // call functions here
-function getIt(){
+getIt(){
  $("p").on("click",function(key){
     alert("Hey!") })
 }
