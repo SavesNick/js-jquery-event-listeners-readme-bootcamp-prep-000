@@ -4,9 +4,6 @@ $(document).ready(function(){
 
 // call functions here
 
- $("p").on("click",function(key){
+ $("p").on("click", function getIt(key){
     alert("Hey!")})
-
-
-
 });
