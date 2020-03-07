@@ -9,7 +9,6 @@ function getIt(){
 }
 
 
- $("p").on("click", function(key){
-    alert("Hey!")})
+ 
 });
 //alert("Your form is going to be submitted")
