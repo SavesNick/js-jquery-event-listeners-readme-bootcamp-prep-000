@@ -15,4 +15,4 @@ function getIt(){
 });
 //alert("Your form is going to be submitted")
 
-//$().on 
+// G press $().on('keyup' ,function() ) 
