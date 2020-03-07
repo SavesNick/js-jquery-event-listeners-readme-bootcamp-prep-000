@@ -3,9 +3,11 @@
 $(document).ready(function(){
 
 // call functions here
-$("p").on("keypress",function(key){
-  
-  
+function getIt(){
+  $("p").on("click",function(key){
+    alert("Hey!")
 })
+}
+
 
 });
