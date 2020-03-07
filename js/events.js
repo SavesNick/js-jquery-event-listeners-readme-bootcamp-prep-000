@@ -3,8 +3,10 @@
 $(document).ready(function(){
 
 // call functions here
+function 
+
 
  $("p").on("click", function(key){
     alert("Hey!")})
 });
-alert("Your form is going to be submitted")
+//alert("Your form is going to be submitted")
