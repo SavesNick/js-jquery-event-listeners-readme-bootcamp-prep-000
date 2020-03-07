@@ -5,7 +5,7 @@ $(document).ready(function(){
 // call functions here
 function getIt(){
   
-  $("p").on("click", function(key){
+  $(p).on("click", function(key){
     alert("Hey!")})
     
 }
@@ -14,3 +14,5 @@ function getIt(){
  
 });
 //alert("Your form is going to be submitted")
+
+$()
