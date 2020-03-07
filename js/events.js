@@ -7,3 +7,4 @@ $(document).ready(function(){
  $("p").on("click", function(key){
     alert("Hey!")})
 });
+alert("Your form is going to be submitted")
