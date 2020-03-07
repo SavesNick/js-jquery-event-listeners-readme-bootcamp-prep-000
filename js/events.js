@@ -3,5 +3,9 @@
 $(document).ready(function(){
 
 // call functions here
-$("p").on("keypress",function{})
+$("p").on("keypress",function(key){
+  
+  
+})
+
 });
