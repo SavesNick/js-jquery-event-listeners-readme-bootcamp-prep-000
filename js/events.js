@@ -3,5 +3,5 @@
 $(document).ready(function(){
 
 // call functions here
-
+$(document).on(function{})
 });
